@@ -1,4 +1,4 @@
 mod Clerk {
-  def work(): Unit \ IO = 
-    println("Clerking...")
+    pub def work(): Unit \ IO = 
+        println("Clerking...")
 }
