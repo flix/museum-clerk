@@ -1,5 +1,5 @@
 [package]
 name        = "museum-clerk"
-version     = "2.1.0"
+version     = "2.1.1"
 flix        = "0.76.2"
 repository  = "github:flix/museum-clerk"
